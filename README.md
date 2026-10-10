@@ -38,7 +38,7 @@ The objective of this project is to analyze CPI data, identify inflation pattern
 
 - [Source CPI Dataset](<./All_India_Index_Upto_April23%20.csv>)
 - [Excel Analysis Workbook](<./Shadab's_CPI_Infalation_CaseStudy_CN.xlsx>)
-- [Case Study and Business Requirements](India%20CPI%20Inflation%20Case%20Study%20.pdf)
+- [India CPI Inflation Case Study](../India%20CPI%20Inflation%20Case%20Study%20.pdf)
 - [Project Documentation](docs/README.md)
 
 ## Key Deliverables
