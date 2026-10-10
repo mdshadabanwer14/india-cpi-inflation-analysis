@@ -1,60 +1,61 @@
-# 🇮🇳 India CPI Inflation Analysis
+# India CPI Inflation Analysis
 
-An Excel-based data analytics project exploring India's Consumer Price Index (CPI) inflation trends and category-wise price movements.
+An Excel-based data analytics project exploring India's Consumer Price Index (CPI), inflation trends, category-level movements, and the potential impact of major economic events.
 
-## 📌 Project Overview
+## Project Overview
 
-Inflation affects household purchasing power and the cost of everyday essentials. This project explores India's CPI data to understand inflation patterns across consumption categories and communicate findings through data analysis and visualization.
+The objective of this project is to analyze CPI data, identify inflation patterns, and translate the data into meaningful insights using Excel. The analysis follows the business questions provided in the case study and uses the supplied dataset.
 
-## 🎯 Objectives
+## Business Objectives
 
-- Analyze CPI inflation trends across the available data.
-- Explore category-wise inflation patterns, including food, fuel, and clothing where available.
-- Prepare and summarize data using Excel.
-- Present findings through clear, meaningful visualizations.
+1. **CPI Basket Contribution** — Analyze broader categories and their contribution to the overall CPI basket using the latest available data.
+2. **Year-over-Year Inflation Trends** — Examine annual inflation trends from 2017 onward and identify the year with the highest inflation rate.
+3. **Food Inflation Analysis** — Evaluate month-over-month food inflation for the 12-month period ending May 2023 and identify the major contributing food category.
+4. **COVID-19 Impact Analysis** — Compare inflation trends before and after March 2020, focusing on food, healthcare, and essential services.
+5. **Oil Price and Inflation Relationship** — Analyze the supplied oil-price data and monthly changes for 2021–2023, and examine correlations with category-level inflation.
 
-## 🛠️ Tools & Skills
+## Tools and Skills
 
-- **Tool:** Microsoft Excel
-- **Data Analysis:** Data preprocessing, sorting, aggregation, and trend analysis
-- **Excel Techniques:** Lookup functions, conditional functions, and summary calculations, as applicable
-- **Visualization:** Charts and graphical representation of trends
+- **Microsoft Excel**
+- Data cleaning and preparation
+- Handling missing values, where required
+- Percentage change calculations: MoM and YoY
+- Category grouping and comparative analysis
+- Correlation analysis using Excel functions
+- Charts and data visualization
+- Business interpretation of analytical results
 
-## 📂 Project Files
+## Methodology
 
-| File | Description |
-|---|---|
-| `CPI Inflation Case Study.xlsx` | Excel workbook containing the project analysis |
-| `India CPI Inflation Case Study.pdf` | Supporting case study document |
+1. Reviewed the supplied CPI dataset and case-study requirements.
+2. Prepared the data for analysis and handled missing values where required.
+3. Grouped related categories into broader analytical buckets.
+4. Calculated inflation changes and category-level comparisons for the specified periods.
+5. Used charts and correlation analysis to explore trends and relationships.
+6. Organized the calculations and visualizations by business objective.
 
-*File names and descriptions will be updated to match the final repository structure.*
+## Project Files
 
-## 🔍 Analysis Workflow
+- [Source CPI Dataset](All_India_Index_Upto_April23%20.csv)
+- [Excel Analysis Workbook](Shadab%27s_CPI_Inflation_CaseStudy_CN.xlsx)
+- [Case Study and Business Requirements](India%20CPI%20Inflation%20Case%20Study%20.pdf)
+- [Project Documentation](docs/README.md)
 
-1. Understand the dataset and its structure.
-2. Prepare the data for analysis.
-3. Analyze overall and category-wise inflation patterns.
-4. Create visualizations to communicate trends.
-5. Summarize findings and observations.
+## Key Deliverables
 
-## 📊 Key Insights
+- Prepared CPI data for analysis
+- Five objective-based analytical sections
+- Inflation trend and category-level analysis
+- Month-over-month and year-over-year comparisons
+- Correlation analysis using the supplied data
+- Excel-based calculations and visualizations
 
-*To be added after reviewing and validating the actual analysis results.*
+## Notes and Limitations
 
-## 💡 Skills Demonstrated
+This project uses the dataset and requirements supplied with the case study. Findings should be interpreted within the scope, time periods, and available fields of that dataset. Correlation indicates association and does not, by itself, establish causation.
 
-- Spreadsheet-based data analysis
-- Data organization and preprocessing
-- Trend identification and comparison
-- Data visualization
-- Analytical communication
-
-## 👤 Author
+## Author
 
 **Shadab Anwer**
 
-GitHub: [mdshadabanwer14](https://github.com/mdshadabanwer14)
-
----
-
-*This project is part of my Data Analytics portfolio.*
+GitHub: [@mdshadabanwer14](https://github.com/mdshadabanwer14)
